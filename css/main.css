@@ -63,6 +63,25 @@ body {
 	z-index: 10;
 }
 
-* {
-	outline: red 1px solid;
+.text {
+	height: 50px;
+	width: 150px;
+	margin-left: 700px;
+	margin-top: -450px;
+	position: absolute;
+	font-family: 'Jolly Lodger', cursive;
+	text-align: center;
+	font-size: 2em;
 }
+
+.text2 {
+	height: 50px;
+	width: 150px;
+	margin-left: 950px;
+	margin-top: -330px;
+	position: absolute;
+	font-family: 'Jolly Lodger', cursive;
+	text-align: center;
+	font-size: 2em;
+}
+
